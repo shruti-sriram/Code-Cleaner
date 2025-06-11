@@ -26,7 +26,7 @@ Run the app using:
 
 ```bash
 npx @modelcontextprotocol/inspector
+```
 
 Command: fastmcp
 Arguments: run app.py:server
-```
