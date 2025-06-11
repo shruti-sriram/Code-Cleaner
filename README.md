@@ -28,5 +28,5 @@ Run the app using:
 npx @modelcontextprotocol/inspector
 ```
 
-Command: fastmcp
-Arguments: run app.py:server
+- **Command**: fastmcp
+- **Arguments**: run app.py:server
